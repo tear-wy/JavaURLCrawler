@@ -14,3 +14,12 @@
 1、文件保存。可以保存从html源码中提取的内容。  
 2、可以下载部分网页图片（img标签与background属性）  
 
+## 简单说明
+Crawler：开线程爬html源码、提取内容、下载图片  
+BasicFrame：界面显示    
+hlListener：高亮  
+rfListener：读取文件  
+sfListener：保存文件  
+main：主函数  
+GUIUtil：居中  
+Probar：进度条显示  
