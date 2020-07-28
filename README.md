@@ -23,3 +23,6 @@ sfListener：保存文件
 main：主函数  
 GUIUtil：居中  
 Probar：进度条显示  
+
+## **
+lib中beautyeye_lnf.jar来自于[https://github.com/JackJiang2011/beautyeye](https://github.com/JackJiang2011/beautyeye). 
